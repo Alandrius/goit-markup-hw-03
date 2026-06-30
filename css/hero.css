@@ -1,0 +1,27 @@
+.hero {
+  background-color: var(--color-navy-blue);
+}
+
+.hero-title {
+  font-size: var(--font-size-hero);
+  line-height: var(--line-height-hero);
+  letter-spacing: var(--letter-spacing-base);
+  color: var(--color-white);
+  text-align: center;
+}
+
+.hero-button {
+  border: none;
+  background-color: var(--color-iris);
+  font-weight: 500;
+  font-size: var(--font-size-base);
+  line-height: var(--line-height-base);
+  letter-spacing: var(--letter-spacing-button);
+  color: var(--color-white);
+  cursor: pointer;
+}
+
+.hero-button:hover,
+.hero-button:focus {
+  background-color: var(--color-ocean);
+}

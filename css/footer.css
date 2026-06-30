@@ -1,0 +1,10 @@
+.footer {
+  background-color: var(--color-navy-blue);
+}
+
+.footer-text {
+  font-size: var(--font-size-base);
+  line-height: var(--line-height-base);
+  letter-spacing: var(--letter-spacing-base);
+  color: var(--color-cloud);
+}

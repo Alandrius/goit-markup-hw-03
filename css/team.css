@@ -1,0 +1,12 @@
+.team {
+  background-color: var(--color-cloud);
+}
+
+.team-card {
+  background-color: var(--color-white);
+  text-align: center;
+}
+
+.team-photo {
+  display: block;
+}

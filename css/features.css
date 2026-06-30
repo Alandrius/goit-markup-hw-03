@@ -1,0 +1,5 @@
+.features-item-text {
+  font-size: var(--font-size-base);
+  line-height: var(--line-height-base);
+  letter-spacing: var(--letter-spacing-base);
+}
