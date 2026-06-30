@@ -2,11 +2,18 @@
   background-color: var(--color-cloud);
 }
 
+.team-list {
+  display: flex;
+  gap: var(--spacing-item);
+}
+
 .team-card {
+  width: calc((100% - 72px) / 4);
   background-color: var(--color-white);
   text-align: center;
 }
 
-.team-photo {
-  display: block;
+.team-member-name {
+  margin-top: 32px;
+  margin-bottom: var(--spacing-text-gap);
 }
